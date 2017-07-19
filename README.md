@@ -1,2 +1,2 @@
 # Documentation
-This is the documentation of our thesis.
+This is the documentation of our thesis. (Online Learning Management System)
